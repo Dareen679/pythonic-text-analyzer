@@ -24,6 +24,7 @@ Open the terminal and run:
 
 ```bash
 python3 text_analyzer.py
+```
 
 ## Key Improvements
 
